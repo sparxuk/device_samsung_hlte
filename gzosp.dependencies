@@ -1,0 +1,42 @@
+[
+  {
+    "repository": "GZOSP-Devices/device_samsung_hlte-common",
+    "target_path": "device/samsung/hlte-common",
+    "branch": "9.0"
+  }
+  {
+    "repository": "GZOSP-Devices/device_samsung_msm8974-common",
+    "target_path": "device/samsung/msm8974-common",
+    "branch": "9.0"
+  }
+  {
+    "repository": "GZOSP-Devices/device_samsung_qcom-common",
+    "target_path": "device/samsung/qcom-common",
+    "branch": "9.0"
+  }
+  {
+    "repository": "GZOSP-Devices/device_qcom_common",
+    "target_path": "device/qcom/common",
+    "branch": "9.0"
+  }
+  {
+    "repository": "GZOSP-Devices/device_qcom_sepolicy-legacy",
+    "target_path": "device/qcom/sepolicy-legacy",
+    "branch": "9.0"
+  }
+  {
+    "repository": "GZOSP-Devices/hardware_samsung",
+    "target_path": "hardware/samsung",
+    "branch": "9.0"
+  }
+  {
+    "repository": "GZR-Kernels/kernel_samsung_msm8974",
+    "target_path": "kernel/samsung/msm8974",
+    "branch": "9.0"
+  },
+  {
+    "repository": "BigTopKrazies/vendor_samsung",
+    "target_path": "vendor/samsung",
+    "branch": "9.0"
+  }
+]
